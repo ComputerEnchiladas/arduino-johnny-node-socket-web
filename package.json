@@ -5,10 +5,11 @@
   "repository": "",
   "license": "MIT",
   "scripts": {
-     "start": "node server/index.js",
+    "start": "node server/index.js"
   },
   "dependencies": {
     "mahrio": "https://github.com/JRGEMCP/mahrio.git",
-    "node-env-file": "0.1.8"
+    "node-env-file": "0.1.8",
+    "socket.io": "^1.7.3"
   }
 }
