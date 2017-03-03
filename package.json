@@ -1,0 +1,14 @@
+{
+  "name": "arduino-johnny-node-socket-web",
+  "version": "0.0.1",
+  "description": "",
+  "repository": "",
+  "license": "MIT",
+  "scripts": {
+     "start": "node server/index.js",
+  },
+  "dependencies": {
+    "mahrio": "https://github.com/JRGEMCP/mahrio.git",
+    "node-env-file": "0.1.8"
+  }
+}
